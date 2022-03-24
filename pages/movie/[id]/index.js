@@ -1,11 +1,14 @@
 import axios from 'axios';
 import Image from 'next/image';
+import Meta from '../../../components/Meta';
 import { server } from '../../../config';
 
 const Movie = ({ movie }) => {
   console.log(movie);
   return (
     <div className="container max-w-4xl mx-auto pt-6">
+      <Meta title={movie.title} />
+
       <div className="px-3">
         <Image
           src={`https://image.tmdb.org/t/p/original${movie.backdrop_path}`}

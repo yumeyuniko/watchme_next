@@ -32,3 +32,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<img src="https://res.cloudinary.com/djnhw4aey/image/upload/v1648133987/watchme1_gyv9y9.png" width=400>
+
+<img src="https://res.cloudinary.com/djnhw4aey/image/upload/v1648133987/watchme_vl2tsl.png" width=400>
+
+<img src="https://res.cloudinary.com/djnhw4aey/image/upload/v1648133985/watchme2_csdwjv.png" width=400>
+
+## Thanks a lot♥︎
+
+☆*:.｡. o(≧▽≦)o .｡.:*☆
+[Build Movie App with Next.js and Tailwind](https://youtu.be/jfNS3254gS8)
